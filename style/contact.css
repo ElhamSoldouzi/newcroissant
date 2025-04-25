@@ -1,0 +1,28 @@
+body {
+  background-color: #ffeff9;
+}
+
+h1 {
+  text-align: center;
+  background-color: #ffd1ed;
+  margin: 20px 100px auto;
+  padding: 20px 0px auto;
+  text-align: center;
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+}
+
+h3 {
+  text-align: left;
+  margin: 30px auto;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.homelink {
+  display: flex;
+  justify-content: space-evenly;
+}

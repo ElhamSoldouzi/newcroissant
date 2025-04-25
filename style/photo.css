@@ -1,0 +1,33 @@
+body {
+  background-color: #ffe2c5;
+}
+
+h1 {
+  text-align: center;
+  background-color: #fed4aa;
+  font-size: 25px;
+  margin: 20px 100px auto;
+  padding: 20px 0px auto;
+  text-align: center;
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+}
+
+img {
+  width: 200px;
+}
+.main {
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.pho {
+  margin: 40px auto;
+  padding: 10px;
+}
+
+.link {
+  text-align: center;
+}
